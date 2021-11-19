@@ -3,9 +3,9 @@
 
 ¡Hola mundo!
 
-Another day another SwiftUI Repo. This repo is about buttons. When I started doing Swift and wrote my first button down I was underwhelmed about how they were because...well they're ugly 😔. So I started reading a seing how to do customize buttons and actually I found A LOT of ways. 
+Another day another SwiftUI Repo. This repo is about buttons. When I started doing Swift and wrote my first button down I was underwhelmed about how they were because well...they're ugly 😔. So I started reading a seing how to customize buttons and I found A LOT of ways. 
 
-So, this little study 📖 of different ways to customize buttons. You can read my [Dev.to post about it here](https://dev.to/silviaespanagil/swiftui-tips-for-styling-buttons-1n4d) 
+So, this is a little study 📖 of different ways to customize buttons. You can read my [Dev.to post about it here](https://dev.to/silviaespanagil/swiftui-tips-for-styling-buttons-1n4d) 
 
 
 ## Want to clone this repo? 🐑
